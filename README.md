@@ -1,10 +1,9 @@
 # Hello, I'm Adrian Martinez Fuentes 👋
 
-## Software Engineer | Ingeniero de Software
+## Software Engineer Student | Estudiante de Ingeniería de Software
 
 🌍 Bilingual in English and Spanish | Bilingüe en inglés y español  
 📍 Based in Oviedo, Asturias, Spain | Resido en Oviedo, Asturias, España  
-🧑‍💻 Passionate creating innovative solutions | Apasionado por crear soluciones innovadoras  
 🔧 Software Development, Problem Solving | Desarrollo de Software, Resolución de Problemas 
 
 ---

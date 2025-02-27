@@ -63,6 +63,12 @@ integrating it with several technologies and LLMs | Desarrollando junto con un e
 
 ---
 
+### 📈 LeetCode Stats
+
+![Adrian's LeetCode Stats](https://leetcode-stats-api.herokuapp.com/adrianmfuentes)
+
+---
+
 #### Thanks for visiting my profile!  
 ¡Gracias por visitar mi perfil!
 

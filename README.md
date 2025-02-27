@@ -65,7 +65,7 @@ integrating it with several technologies and LLMs | Desarrollando junto con un e
 
 ### 📈 LeetCode Stats
 
-[![LeetCode stats](https://github-readme-leetcode.vercel.app/api?username=adrianmfuentes&theme=radical)](https://leetcode.com/adrianmfuentes/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/adrianmfuentes)
 
 ---
 

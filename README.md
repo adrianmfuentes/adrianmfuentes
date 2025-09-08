@@ -4,7 +4,7 @@
 
 🌍 Bilingual in English and Spanish | Bilingüe en inglés y español  
 📍 Based in Oviedo, Asturias, Spain | Resido en Oviedo, Asturias, España  
-🔧 Software Development, Problem Solving | Desarrollo de Software, Resolución de Problemas 
+🔧 Software Engineering | Ingenería del software
 
 ---
 
@@ -26,11 +26,12 @@ Soy un estudiante de Ingeniería de Software de 20 años, residente en Oviedo, E
 
 ### 🛠️ Skills / Habilidades
 
-- **Languages**: Python, JavaScript, Java, C++, C/C# | **Lenguajes**: Python, JavaScript, Java, C++, C/C#
-- **Web Development**: React, Node, Express, HTML5, CSS3 | **Desarrollo Web**: React, Node, Express, HTML5, CSS3  
+- **Languages**: Python, JavaScript/Typescript, Java, C++, C/C#, bash | **Lenguajes**: Python, JavaScript/Typescript, Java, C++, C/C#, bash
+- **Web Development**: React, Node, Express, Spring, HTML5, CSS3 | **Desarrollo Web**: React, Node, Express, Spring, HTML5, CSS3  
 - **Databases**: MySQL, PostgreSQL, MongoDB | **Bases de Datos**: MySQL, PostgreSQL, MongoDB  
 - **Version Control**: Git, GitHub | **Control de Versiones**: Git, GitHub  
 - **Tools & Frameworks**: Docker, Apache, NGINX | **Herramientas y Frameworks**: Docker, Apache, NGINX
+- **Operating Systems**: Windows, Linux | **Sistemas Operativos**: Windows, Linux
 
 ---
 
@@ -50,10 +51,7 @@ Soy un estudiante de Ingeniería de Software de 20 años, residente en Oviedo, E
 
 ### 🚀 Current Projects / Proyectos actuales
 
-- **Personal Portfolio Website**: A web application showcasing my work and projects | Aplicación web que muestra mi trabajo y proyectos.  
-- **Arquisoft Wichat**: Developing together with a team a web application for playing a quizz game, 
-integrating it with several technologies and LLMs | Desarrollando junto con un equipo una aplicación web para jugar a un juego de preguntas y respuestas, integrándola con varias tecnologías y LLMs.
-
+- **Personal Website**: A web service for knowing myself, together with different tools I have developed | Aplicación web para conocerme tanto a mí como a mis proyectos. También se incluyen diferentes herramientas que he ido desarrollando.
 
 ---
 

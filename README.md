@@ -44,14 +44,14 @@ Soy un estudiante de Ingeniería de Software de 20 años que se encuentra en el 
 
 ### 🏆 Achievements / Logros
 
-- Contributed to open-source projects (https://github.com/Arquisoft/wichat_en2b) | Contribuí a proyectos de código abierto (https://github.com/Arquisoft/wichat_en2b)
+- Contributed to [open-source projects](https://github.com/Arquisoft/wichat_en2b) | Contribuí a [proyectos de código abierto](https://github.com/Arquisoft/wichat_en2b)
 - Completed various online courses on **Machine Learning**, **Web Development** and **Cybersecurity** | Finalicé varios cursos online sobre **Aprendizaje Automático**, **Desarrollo Web** y **Ciberseguridad**  
 
 ---
 
 ### 🚀 Current Projects / Proyectos actuales
 
-- **Personal Website** (https://martinezfuentesadrian-dev.vercel.app/es): A web service for knowing myself, together with different tools I have developed. | Aplicación web para conocerme tanto a mí como a mis proyectos. También se incluyen diferentes herramientas que he ido desarrollando.
+- [**Personal Website**](https://martinezfuentesadrian-dev.vercel.app/es): A web service for knowing myself, together with different tools I have developed. | Aplicación web para conocerme tanto a mí como a mis proyectos. También se incluyen diferentes herramientas que he ido desarrollando.
 
 ---
 

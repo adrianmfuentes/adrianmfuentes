@@ -1,36 +1,36 @@
-# Hello, I'm Adrián Martínez Fuentes 👋
+# Hello! I'm Adrián Martínez Fuentes 👋 | Hola! Soy Adrián Martínez Fuentes👋
 
 ## Software Engineer Student | Estudiante de Ingeniería de Software
 
 🌍 Bilingual in English and Spanish | Bilingüe en inglés y español  
-📍 Based in Oviedo, Asturias, Spain | Resido en Oviedo, Asturias, España  
-🔧 Software Engineering | Ingenería del software
+📍 Based in Asturias, Spain | Resido en Asturias, España  
 
 ---
 
 ### 🧑‍💻 About Me / Sobre mí
 
-I'm a 20-year-old Software Engineer student based in Oviedo, Spain. I am always eager to learn and grow as a professional, focusing on building impactful software solutions.
+I'm a 20-year-old Software Engineer student facing the final year of the bachelor. I am always eager to learn and grow as a professional, focusing on building impactful software solutions.
 
-Soy un estudiante de Ingeniería de Software de 20 años, residente en Oviedo, España. Siempre estoy dispuesto a aprender y crecer profesionalmente, centrándome en construir soluciones de software impactantes.
+Soy un estudiante de Ingeniería de Software de 20 años que se encuentra en el último año del grado. Siempre estoy dispuesto a aprender y crecer profesionalmente, centrándome en construir soluciones de software impactantes.
 
 ---
 
 ### 🌱 What I'm currently learning / En qué estoy aprendiendo
 
 - 🧠 Concepts in **Machine Learning** & **LLM**| Conceptos en **Aprendizaje Automático** & **LLM**
-- 🖥️ Exploring **Cloud Technologies** (AWS, Google Cloud) | Explorando **Tecnologías en la Nube** (AWS, Google Cloud)  
-- 🔒 Enhancing skills in **Cybersecurity** | Mejorando habilidades en **Ciberseguridad**
+- 🖥️ Exploring **Cloud Technologies** (AWS, Google Cloud, Oracle) | Explorando **Tecnologías en la Nube** (AWS, Google CloudC)  
+- 🔒 Enhancing skills in **Cybersecurity** & **Forensics** | Mejorando habilidades en **Ciberseguridad** & & **Foresne**
 
 ---
 
 ### 🛠️ Skills / Habilidades
 
-- **Languages**: Python, JavaScript/Typescript, Java, C++, C/C#, bash | **Lenguajes**: Python, JavaScript/Typescript, Java, C++, C/C#, bash
-- **Web Development**: React, Node, Express, Spring, HTML5, CSS3 | **Desarrollo Web**: React, Node, Express, Spring, HTML5, CSS3  
+- **Languages**: Python, Java, C/C#, Bash | **Lenguajes**: Python, Java, C/C#, Bash
+- **Web Development**: JS/TS, Node, Express, Spring, HTML5, CSS3 | **Desarrollo Web**: JS/TS, Node, Spring, HTML5, CSS3  
 - **Databases**: MySQL, PostgreSQL, MongoDB | **Bases de Datos**: MySQL, PostgreSQL, MongoDB  
 - **Version Control**: Git, GitHub | **Control de Versiones**: Git, GitHub  
-- **Tools & Frameworks**: Docker, Apache, NGINX | **Herramientas y Frameworks**: Docker, Apache, NGINX
+- **Tools**: Docker, Apache, NGINX | **Herramientas y Frameworks**: Docker, Apache, NGINX
+  **Frameworks**: React, NextJS, Vite, Springboot, Express
 - **Operating Systems**: Windows, Linux | **Sistemas Operativos**: Windows, Linux
 
 ---
@@ -44,14 +44,14 @@ Soy un estudiante de Ingeniería de Software de 20 años, residente en Oviedo, E
 
 ### 🏆 Achievements / Logros
 
-- Contributed to open-source projects related to web development | Contribuí a proyectos de código abierto relacionados con el desarrollo web  
+- Contributed to open-source projects (ie.: [https://github.com/Arquisoft/wichat_en2b]) | Contribuí a proyectos de código abierto (ej.: [https://github.com/Arquisoft/wichat_en2b])
 - Completed various online courses on **Machine Learning**, **Web Development** and **Cybersecurity** | Finalicé varios cursos online sobre **Aprendizaje Automático**, **Desarrollo Web** y **Ciberseguridad**  
 
 ---
 
 ### 🚀 Current Projects / Proyectos actuales
 
-- **Personal Website**: A web service for knowing myself, together with different tools I have developed | Aplicación web para conocerme tanto a mí como a mis proyectos. También se incluyen diferentes herramientas que he ido desarrollando.
+- **Personal Website**: A web service for knowing myself, together with different tools I have developed [https://martinezfuentesadrian-dev.vercel.app/es] | Aplicación web para conocerme tanto a mí como a mis proyectos. También se incluyen diferentes herramientas que he ido desarrollando. [https://martinezfuentesadrian-dev.vercel.app/es]
 
 ---
 

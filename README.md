@@ -15,11 +15,11 @@ Soy un estudiante de Ingeniería de Software de 20 años que se encuentra en el 
 
 ---
 
-### 🌱 What I'm currently learning / En qué estoy aprendiendo
+### 🌱 What I'm currently learning / Qué estoy aprendiendo
 
-- 🧠 Concepts in **Machine Learning** & **LLM**| Conceptos en **Aprendizaje Automático** & **LLM**
+- 🧠 Concepts in **Intellegent Systems** | Conceptos en **Sistemas Inteligentes***
 - 🖥️ Exploring **Cloud Technologies** (AWS, Google Cloud, Oracle) | Explorando **Tecnologías en la Nube** (AWS, Google CloudC)  
-- 🔒 Enhancing skills in **Cybersecurity** & **Forensics** | Mejorando habilidades en **Ciberseguridad** & & **Foresne**
+- 🔒 Enhancing skills in **Cybersecurity** & **Forensics** | Mejorando habilidades en **Ciberseguridad** & **Foresne**
 
 ---
 
@@ -52,18 +52,6 @@ Soy un estudiante de Ingeniería de Software de 20 años que se encuentra en el 
 ### 🚀 Current Projects / Proyectos actuales
 
 - [**Personal Website**](https://martinezfuentesadrian-dev.vercel.app/es): A web service for knowing myself, together with different tools I have developed. | Aplicación web para conocerme tanto a mí como a mis proyectos. También se incluyen diferentes herramientas que he ido desarrollando.
-
----
-
-### 📈 GitHub Stats
-
-![Adrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianmfuentes&show_icons=true&count_private=true&hide=prs&theme=radical)
-
----
-
-### 📈 LeetCode Stats
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/adrianmfuentes)
 
 ---
 

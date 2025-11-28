@@ -58,3 +58,4 @@ Soy un estudiante de Ingeniería de Software de 20 años que se encuentra en el 
 #### Thanks for visiting my profile!  
 ¡Gracias por visitar mi perfil!
 
+![Contador de Vistas](https://komarev.com/ghpvc/?username=adrianmfuentes)

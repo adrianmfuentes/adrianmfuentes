@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me / Sobre mí
 
-I'm a 20-year-old Software Engineer student based in Oviedo, Spain. I am always eager to learn and grow as a professional, focusing on building impactful software solutions.
+I'm a 21-year-old Software Engineer student based in Oviedo, Spain. I am always eager to learn and grow as a professional, focusing on building impactful software solutions.
 
 ---
 

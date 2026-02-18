@@ -45,11 +45,14 @@ I'm a 20-year-old Software Engineer student based in Oviedo, Spain. I am always 
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adrianmfuentes&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adrianmfuentes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianmfuentes&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+<p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianmfuentes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=adrianmfuentes&theme=dark" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianmfuentes&theme=dark&layout=compact" alt="Top Languages" />
+</p>
 
 ## 📈 LeetCode Stats
 

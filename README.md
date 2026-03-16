@@ -40,7 +40,7 @@ I'm a 21-year-old Software Engineer student. I am always eager to learn and grow
 
 ## 🚀 Personal site:
 
-- [**Personal Website**](https://martinezfuentesadrian-dev.vercel.app/es): A web service for knowing myself, together with different tools I have developed. | Aplicación web para conocerme tanto a mí como a mis proyectos. También se incluyen diferentes herramientas que he ido desarrollando.
+- [**Personal Website**](https://martinezfuentesadrian-dev.vercel.app/es): A personal site built for self-discovery, featuring various tools I've developed.
 
 ---
 

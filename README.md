@@ -2,7 +2,7 @@
 
 ## Software Engineering Student
 
-🌍 Spanish & English
+🌍 Spanish & English                                         
 📍 Oviedo, Asturias, Spain
 
 ---

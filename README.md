@@ -47,11 +47,11 @@ I'm a 21-year-old Software Engineer student. I am always eager to learn and grow
 ## GitHub Stats:
 
 <p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianmfuentes&theme=dark&layout=compact" alt="Top Languages" />
+  <br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianmfuentes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=adrianmfuentes&theme=dark" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianmfuentes&theme=dark&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=adrianmfuentes&theme=dark" alt="GitHub Streak" />  
 </p>
 
 ## LeetCode Stats

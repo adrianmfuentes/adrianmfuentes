@@ -150,7 +150,7 @@ URL shortening service with alphanumeric code generation, IP-based rate limiting
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adrianmfuentes&theme=darkhub&no-frame=true&margin-w=10&animation=true" alt="GitHub Trophies" />
+  <img src="https://trophy.benkou.dev/?username=adrianmfuentes&theme=darkhub&no-frame=true&margin-w=10&animation=true" alt="GitHub Trophies" />
 </p>
 
 ## LeetCode Stats
@@ -168,8 +168,6 @@ URL shortening service with alphanumeric code generation, IP-based rate limiting
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adrianmfuentes/adrianmfuentes/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-<sub>Generated automatically by the <code>snake.yml</code> workflow — enable GitHub Actions on this repo to activate it.</sub>
 
 ---
 

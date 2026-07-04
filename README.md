@@ -149,10 +149,6 @@ URL shortening service with alphanumeric code generation, IP-based rate limiting
   <img src="https://streak-stats.demolab.com/?user=adrianmfuentes&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://trophy.benkou.dev/?username=adrianmfuentes&theme=darkhub&no-frame=true&margin-w=10&animation=true" alt="GitHub Trophies" />
-</p>
-
 ## LeetCode Stats
 
 <p align="center">

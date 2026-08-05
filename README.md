@@ -1,10 +1,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Adri%C3%A1n%20Mart%C3%ADnez%20Fuentes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Adri%C3%A1n%20Mart%C3%ADnez%20Fuentes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/adrianmfuentes">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Secure+Solutions+%26+Backend+Enthusiast;BSc+Software+Engineering;Open+to+New+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Secure+Solutions+%26+Backend+Enthusiast;BSc+Software+Engineering;Open+to+New+Opportunities" alt="Typing SVG" />
 </a>
 
 Spanish & English &nbsp;·&nbsp; Oviedo, Asturias, Spain
@@ -19,15 +19,16 @@ Spanish & English &nbsp;·&nbsp; Oviedo, Asturias, Spain
 
 ## About Me
 
-I'm a Software Engineering student at the **University of Oviedo**, in the final stretch of my degree. I specialize in secure solutions, with hands-on experience in Python and Docker environments, and I'm proactive and problem-solving oriented, focused on delivering efficiency and technical quality within innovative development teams.
+I'm a **Software Engineer** specializing in secure solutions. Having graduated from the University of Oviedo, I am proactive and problem-solving oriented, with technical experience in Python and Docker environments. I am focused on delivering efficiency and technical quality within innovative development teams.
 
-I completed my internship as a **Software Engineer Intern at Indra ATM** between February and May 2026, and I'm now looking for full-time opportunities to keep growing as an engineer.
+I completed my internship as a Software Engineer Intern at **Indra ATM, ITEC & Internal Solutions** between February and May 2026. I am now pursuing a **Master's in Web Engineering** while continuing to grow as an engineer.
 
-- Finishing my **BSc in Software Engineering** (English-taught) — GPA **7.465/10**
+- Graduated with a **BSc in Software Engineering** (English-taught) — GPA **7.595/10**
+- Achieved a grade of **10/10** on my Final Degree Project (TFG): **SVAES - Automated Release Validation System**
 - Completed an internship at **Indra ATM, ITEC & Internal Solutions** (February – May 2026)
+- Starting a **Master's in Web Engineering** at the School of Computer Engineering of Oviedo for the 2026/2027 academic year
 - Currently sharpening my skills in **Machine Learning**, **Intelligent Systems** and **Cloud Technologies**
 - Enhancing my knowledge in **Cybersecurity** and secure software design
-- Open to new opportunities
 
 ---
 
@@ -59,7 +60,7 @@ I completed my internship as a **Software Engineer Intern at Indra ATM** between
 
 **BSc in Software Engineering** (English-taught) — University of Oviedo · *Oviedo, Spain*
 `2022 – 2026`
-- GPA: **7.465/10**
+- GPA: **7.595/10**
 - Elective: Computer Forensics and Auditing
 
 ### Honors & Awards

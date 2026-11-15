@@ -1,9 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="230" viewBox="0 0 880 230" role="img" aria-label="Adrián Martínez Fuentes, Software and DevOps Engineer, Oviedo, Spain">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="290" viewBox="0 0 720 290" role="img" aria-label="Adrián Martínez Fuentes, Software and DevOps Engineer, Oviedo, Spain. A pipeline of four stages, build, test, verify and ship, with security running under all of them.">
 <title>Adrián Martínez Fuentes, Software and DevOps Engineer</title>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.s{font-family:'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif}
+.n{fill:#1f2328;stroke:#1f2328;stroke-width:1.5;fill-opacity:1;animation:7s linear infinite}
+.n1{animation-name:n1}.n2{animation-name:n2}.n3{animation-name:n3}.n4{animation-name:n4}
+.d{fill:#1f2328;opacity:0;animation:run 7s linear infinite}
+.sec{stroke-dasharray:500;stroke-dashoffset:0;animation:sec 7s linear infinite}
+@keyframes run{0%{transform:translateX(0);opacity:0}5%{transform:translateX(0);opacity:1}80%{transform:translateX(500px);opacity:1}81%,100%{transform:translateX(500px);opacity:0}}
+@keyframes sec{0%,5%{stroke-dashoffset:500}80%,94%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+@keyframes n1{0%,4%{fill-opacity:0}6%,94%{fill-opacity:1}100%{fill-opacity:0}}
+@keyframes n2{0%,29%{fill-opacity:0}31%,94%{fill-opacity:1}100%{fill-opacity:0}}
+@keyframes n3{0%,54%{fill-opacity:0}56%,94%{fill-opacity:1}100%{fill-opacity:0}}
+@keyframes n4{0%,79%{fill-opacity:0}81%,94%{fill-opacity:1}100%{fill-opacity:0}}
+@media (prefers-reduced-motion:reduce){.n,.d,.sec{animation:none}}
+</style>
 <g text-anchor="middle">
-<text x="440" y="62" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="4.5" fill="#656d76">SOFTWARE &amp; DEVOPS ENGINEER</text>
-<text x="440" y="128" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="54" letter-spacing="-0.5" fill="#1f2328">Adrián Martínez Fuentes</text>
-<rect x="418" y="156" width="44" height="1" fill="#9a7b4f"/>
-<text x="440" y="190" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="16" font-style="italic" fill="#656d76">Oviedo, Spain</text>
+<text class="m" x="360" y="46" font-size="15" letter-spacing="4.5" fill="#656d76">SOFTWARE &amp; DEVOPS ENGINEER</text>
+<text class="s" x="360" y="118" font-size="52" letter-spacing="-0.5" fill="#1f2328">Adrián Martínez Fuentes</text>
+<text class="s" x="360" y="152" font-size="19" font-style="italic" fill="#656d76">Oviedo, Spain</text>
+<g class="m" font-size="15" letter-spacing="1.5" fill="#656d76">
+<text x="110" y="204">build</text>
+<text x="277" y="204">test</text>
+<text x="443" y="204">verify</text>
+<text x="610" y="204">ship</text>
 </g>
+<text class="s" x="360" y="272" font-size="17" font-style="italic" fill="#9a7b4f">security, at every stage</text>
+</g>
+<g stroke="#d0d7de" stroke-width="1.5">
+<line x1="118" y1="226" x2="269" y2="226"/>
+<line x1="285" y1="226" x2="435" y2="226"/>
+<line x1="451" y1="226" x2="602" y2="226"/>
+</g>
+<line class="sec" x1="110" y1="240" x2="610" y2="240" stroke="#9a7b4f" stroke-width="1.5"/>
+<circle class="n n1" cx="110" cy="226" r="5.5"/>
+<circle class="n n2" cx="277" cy="226" r="5.5"/>
+<circle class="n n3" cx="443" cy="226" r="5.5"/>
+<circle class="n n4" cx="610" cy="226" r="5.5"/>
+<circle class="d" cx="110" cy="226" r="3.5"/>
 </svg>
